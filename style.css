@@ -397,7 +397,7 @@ object-fit: cover;
     width: 90%;
     font-size: 15px;
     padding: 7px;
-    overflow-y: auto;
+    overflow-y: scroll;
     box-sizing: border-box;
   }
   /* Buttons */
