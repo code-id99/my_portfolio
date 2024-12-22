@@ -437,7 +437,7 @@ object-fit: cover;
 
   /* Communication and Social Media Icons */
   .communication {
-    margin-right: 0;
+    margin-left: 0;
     margin-top: 20px;
     text-align: center;
   }
