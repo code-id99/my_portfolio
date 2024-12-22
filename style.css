@@ -394,7 +394,11 @@ object-fit: cover;
     margin-left: -55px;
     margin-top: -25px;
     background-color:rgba(0, 0, 0, 0.479);
-    width: 650px;
+    width: 90%;
+    font-size: 15px;
+    padding: 7px;
+    overflow-y: auto;
+    box-sizing: border-box;
   }
   /* Buttons */
   .buttons {
