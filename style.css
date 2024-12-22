@@ -382,7 +382,20 @@ object-fit: cover;
     flex-direction: column;
     align-items: center;
   }
-
+    .info{
+    flex: 1;
+    padding: 20px;
+    /* border-left: 2px solid #ccc;1 */
+    margin-left: 40px;
+    
+  }
+  .info-content{
+    display: none;
+    margin-left: -55px;
+    margin-top: -25px;
+    background-color:rgba(0, 0, 0, 0.479);
+    width: 650px;
+  }
   /* Buttons */
   .buttons {
     width: 100%;
